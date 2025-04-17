@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### hints for getting it working in github pages may be found here:
+
+https://mkay11.medium.com/how-to-deploy-your-vite-vue-3-application-in-github-pages-2023-2b842f50576a
